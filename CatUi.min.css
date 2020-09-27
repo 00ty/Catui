@@ -1,0 +1,66 @@
+/* #3280fc */
+.btn-primary,.btn-primary:focus, .btn-primary:hover {
+    background-color: #3280fc;
+}
+
+.panel-primary>.panel-heading{
+    background-color: #3280fc;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.panel-primary {
+    border: 2px solid #3280fc;
+
+}
+
+.panel-success>.panel-heading{
+    background-color: #329d38;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    color: white;
+}
+.panel-success {
+    border: 2px solid #329d38;
+
+}
+.alert-success {
+    background-color: #38b043;
+    color: white;
+}
+.alert-info {
+    background-color: #3280fc;
+    color: white;
+}
+.alert-warning {
+    background-color:#f1a325;
+    color: white;
+}
+/* #ea644a */
+.alert-danger {
+    background-color:#ea644a;
+    color: white;
+}
+.nav>li>a {
+    color: #3280fc;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    background-color: #3280fc;
+}
+.breadcrumb > li > a{
+    color: #3280fc;
+}
+.breadcrumb > .active{
+    color: #000;
+}
+.pagination > .active > a ,.pagination > .active > a:hover,.pagination > .active > a:focus{
+    background-color: #3280fc;
+}
+.pagination > .disabled >a {
+    color: #000;
+}
+.pagination > li > a {
+    color: #3280fc;
+}
+.input-group-addon {
+    background-color: white;
+}
